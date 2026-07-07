@@ -50,7 +50,7 @@ GO
 Clone the Repository:  
 
 Bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https:/charithwannisingha/github.com//YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/charithwannisingha/YOUR_REPOSITORY_NAME.git](https:/charithwannisingha/github.com//YOUR_REPOSITORY_NAME.git)
 Database Deployment:
 
 Execute the SQL setup script provided above in your local SSMS instance.
