@@ -50,7 +50,7 @@ GO
 Clone the Repository:  
 
 Bash
-git clone [https://github.com/charithwannisingha/Student-Management-System-CSharp](https:/charithwannisingha/github.com//YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/charithwannisingha/Student-Management-System-CSharp.git](https:/charithwannisingha/github.com//YOUR_REPOSITORY_NAME.git)
 Database Deployment:
 
 Execute the SQL setup script provided above in your local SSMS instance.
